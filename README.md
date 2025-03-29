@@ -1,2 +1,1 @@
-# autodoc
-Generate PDF and word documents from database.
+Compare and visualize the structure of files and database tables to ensure schema alignment.
